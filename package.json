@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/leonardoreis/JSTrainee/issues"
   },
-  "homepage": "https://github.com/leonardoreis/JSTrainee#readme"
+  "homepage": "https://github.com/leonardoreis/JSTrainee#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
